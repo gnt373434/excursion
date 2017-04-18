@@ -1,22 +1,13 @@
-h1 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-  text-align: center;
-  font-family: Helvetica;
-  font-size: 100px;
-  font-weight: bold;
-  color: khaki;
-}
 html {
   font-family: Helvetica, sans-serif;
-}
-h3{ color: Black;}
+  background-color: black;}
 
-#brushes h2 {
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
+#frames h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
   color: white;
-  background-color: mediumspringgreen;
+  text-align: center;
 }
 
 #frames h2 {
@@ -24,13 +15,27 @@ h3{ color: Black;}
   font-size: 32px;
   font-weight: bold;
   color: white;
-  background-color: lightcoral;
+  text-align: center;
 }
 
-#paint h2 {
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
+#brushes h1 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
   color: white;
-  background-color: skyblue;
+  text-align: center;
+  text-align: center;
+}
+
+#brushes h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: bold;
+  color: gray;
+  text-align: center;
+}
+
+.footer {
+  color: gray;
+  text-align: right;
 }
